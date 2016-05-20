@@ -1,8 +1,8 @@
 # matrix
-
+**maryamlabib.com** :heart_eyes: 
 ### Learning Goals
 
-- [ ] Register a domain name
+:clap: ~~Register a domain name~~
 - [ ] What information I have about my network
 - [ ] What I can do with that information
 - [ ] Ruby

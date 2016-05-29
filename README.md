@@ -28,5 +28,7 @@ This is where I write floaty ideas before I extract them somewhere else.
 3. [Wireshark](https://www.wireshark.org/#download)
   A GUI that shows you the packets going through your network and allows you to filter the things you're looking for and get general pattern data. 
 
+4. [tcpdump](http://www.tcpdump.org/)
+  A command line tool that can be almost as useful as Wireshark depending on how well you can use the command line. Useful for if you don't want to install an application.
 
 

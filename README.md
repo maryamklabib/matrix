@@ -14,7 +14,14 @@
 - [ ] A web interface that shows you other machines/vms on your network and their ips
 
 
-### Tools for anyone interested in Networking
+### Tools for anyone getting into networking
 
 1. [LanScan](https://itunes.apple.com/us/app/lanscan/id472226235)
+
 Really simple one window interface that shows you what devices are connected to your network and basic information them.
+
+2. [iStat Menu](https://bjango.com/mac/istatmenus/)
+
+A basic overview of your system's CPU, memory usage, network upload and download speeds, etc.
+
+

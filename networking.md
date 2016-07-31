@@ -1,9 +1,16 @@
 ###Glossary of networking terms and use cases:
 
-1. HA Proxy
+1. HAProxy
+  - Open-source TCP/HTTP load-balancing proxy server.
 1. SSL Termination
+  - SSL termination refers to the process that occurs at the server end of an SSL connection, where the traffic transitions between encrypted and unencrypted forms.
 1. Port Forwarding
-1. SSH Proxy
+  - an application of network address translation (NAT) that redirects a communication request from one address and port combination to another while the packets are traversing a network gateway, such as a router or firewall.
+1. SSH 
+  - why: for when you want to access a shell (command line) remotely and gain access to the system
+  - what: cryptographic network protocol for operating network services securely over an unsecured network
+1. Proxy
+  - 
 1. TCP/IP Routing
 1. UDP Routing
 1. NAT
